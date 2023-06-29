@@ -36,7 +36,7 @@ function fakeBin(x){
 2. https://htmlacademy.ru/
 3. https://code-basics.com/ru/language_categories/programming
 
-# 8. Englis
+# 8. English 
 А1 (Beginner)
 I devote time to this everyday, I have all the equipment in English, I try to use it everywhere
 
